@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\ApiPousada\API\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2022-08-15T10:48:32.5817201Z;True|2022-08-12T15:42:12.2426791-03:00;True|2022-08-12T14:56:17.5939055-03:00;True|2022-08-12T14:50:44.0839819-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
